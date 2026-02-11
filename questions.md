@@ -563,7 +563,7 @@ There is no score. These questions reveal, they don't evaluate.
 
 ---
 
-*HUMAN-QUAL.md v1.0*
+*QUESTIONS.md v1.0*
 *Companion to HUMAN.md*
 
 *These questions have no right answers—but they have honest ones.*
