@@ -1,4 +1,4 @@
-# HUMAN.md v1.8
+# HUMAN.md v2.0
 
 > A prompt framework for authentic human simulation.
 >
